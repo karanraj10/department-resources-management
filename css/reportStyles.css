@@ -1,0 +1,15 @@
+body {
+  padding: 0.5rem;
+}
+.title {
+  text-align: center;
+  font-size: 3rem;
+  color: #2e4744;
+}
+.subTitle {
+  font-size: 1.5rem;
+  color: #2e4744;
+}
+.subText {
+  font-size: 1.1rem;
+}

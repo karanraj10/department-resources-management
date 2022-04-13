@@ -1,0 +1,54 @@
+@import "fonts.css";
+.main {
+  background-color: white;
+  font-family: fontRegular;
+}
+.mainTitle {
+  color: #2e4744;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.genralInfoList {
+  margin-top: 3rem;
+}
+.genralInfoCOl {
+  width: 25rem;
+}
+.card {
+  padding: 0.3rem;
+  border-radius: 1rem;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 10px 1px #b3b3b3;
+}
+.infoStats {
+  font-size: 3rem;
+  color: #2e4744;
+}
+.infoTitle {
+  font-size: 2rem;
+}
+.piechartTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.addResourcenBtn {
+  margin-left: 0.7rem;
+  margin-top: 2rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border: 2px solid #395c58;
+  border-radius: 1rem;
+  color: black;
+  font-size: 1.3rem;
+}
+.addResourcenBtn:focus,
+.addResourcenBtn:active,
+.addResourcenBtn:hover {
+  outline: none !important;
+  box-shadow: none;
+  background-color: #395c58;
+  color: white;
+  border-color: #395c58;
+}

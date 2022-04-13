@@ -1,0 +1,28 @@
+@import "fonts.css";
+.sidebar {
+  background-color: white;
+  font-family: fontRegular;
+}
+.sidebar-content {
+  background-color: white;
+}
+.sidebarTitle {
+  font-size: 2.2rem;
+  color: #2e4744;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem;
+}
+a.sidebar-link {
+  background-color: white;
+  color: grey;
+  font-size: 1.3rem;
+  margin: 0.5rem;
+  border-radius: 1rem;
+}
+a.sidebar-link:hover,
+a.active {
+  border-radius: 1rem;
+  background-color: #395c58;
+  color: white;
+}
